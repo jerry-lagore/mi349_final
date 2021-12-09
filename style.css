@@ -5,9 +5,9 @@ body {
     margin-top: 5px;
 }
 
-.sticky {
+/**.sticky {
     background: grey;
-}
+}**/
 
 li {
     display: inline;
