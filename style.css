@@ -1,3 +1,10 @@
+body {
+    background-color: #ccc;
+    font-family: Helvetica, sans-serif;
+    color: #332;
+    margin-top: 5px;
+}
+
 .sticky {
     background: grey;
 }
