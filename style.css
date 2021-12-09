@@ -18,7 +18,7 @@ li {
     background-color: #aaa;
     border-radius: 15px;
     margin: 0 auto;
-    width: 800px;
+    width: 1200px;
     text-align: center;
     box-shadow: rgba(0,0,0,0.1) 0 20px 20px;
     border: 1px solid #aaa;
@@ -26,7 +26,7 @@ li {
 
 .card .icon {
     box-shadow: rgba(0,0,0,0.1) 0 20px 20px;
-    width: 100px;
+    width: 200px;
     border-radius: 50%;
-    margin-top: -50px;
+    margin-top: 50px;
 }
