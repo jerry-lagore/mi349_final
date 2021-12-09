@@ -20,12 +20,8 @@ a {
 
 nav {
     background-color: #636363;
-    color: whitesmoke;
-    border-top: none;
-    border-bottom: none;
-    border-left: none;
-    border-right: none;
-    text-decoration: none;
+    text-align: left;
+    width: 100%;
 }
 
 .card {
