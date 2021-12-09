@@ -1,3 +1,8 @@
 .sticky {
     background: grey;
 }
+
+li {
+    display: inline;
+    list-style-type: none;
+}
