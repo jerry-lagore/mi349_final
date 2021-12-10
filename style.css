@@ -93,6 +93,6 @@ article {
 
 @media (max-width: 600px ) {
     .bio {
-        background-color: darkgreen;
+        margin: 0 auto;
     }
 }
