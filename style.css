@@ -37,14 +37,13 @@ section {
     flex-direction: column;
 }
 
-/* article {
+article {
     background: darkgray;
-    border-radius: 5px;
     height: 250px;
     box-shadow: rgba(0,0,0,0.1) 0 20px 20px;
-    padding: 20px;
-    margin: 20px;
-} */
+    /* padding: 20px;
+    margin: 20px; */
+}
 
 h1 {
     font-size: 250%;
