@@ -94,6 +94,6 @@ article {
 @media (max-width: 600px ) {
     .bio {
         width: 400px;
-        height: 800px;
+        height: 600px;
     }
 }
