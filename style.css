@@ -7,17 +7,6 @@ nav {
     background-color: #636363;
 }
 
-/*.navcontainer {
-    width:100%;
-    border:solid;
-    border-top: none;
-    border-bottom: none;
-    border-left: none;
-    border-right: none;
-    margin: 0px;
-    padding-left: 0px;
-}*/
-
 li {
     display: inline;
     list-style-type: none;
