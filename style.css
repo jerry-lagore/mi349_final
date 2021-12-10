@@ -26,6 +26,12 @@ section {
     display: flexbox;
 }
 
+article {
+    background: darkgray;
+    padding: 20px;
+    margin: 20px;
+}
+
 .card {
     background-color: #aaa;
     border-radius: 15px;
