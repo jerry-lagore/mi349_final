@@ -7,7 +7,7 @@ nav {
     background-color: #636363;
 }
 
-.navcontainer {
+/*.navcontainer {
     width:100%;
     border:solid;
     border-top: none;
@@ -16,7 +16,7 @@ nav {
     border-right: none;
     margin: 0px;
     padding-left: 0px;
-}
+}*/
 
 li {
     display: inline;
@@ -92,14 +92,14 @@ article {
     font-size: 125%;
 }
 
-@media (max-width: 600px ) {
+@media (max-width: 600px ) { /* For smaller screens and browsers */
     .bio {
         width: 400px;
         height: 600px;
     } 
 }
 
-@media (max-width: 400px) {
+@media (max-width: 400px) { /* For mobile devices */
     .exp {
         height: 400px; 
     }
