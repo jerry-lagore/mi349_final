@@ -22,7 +22,9 @@ nav {
     background-color: #636363;
 }
 
-
+section {
+    display: flexbox;
+}
 
 .card {
     background-color: #aaa;
