@@ -5,10 +5,6 @@ body {
     margin-top: 5px;
 }
 
-.sticky {
-    background: grey;
-}
-
 li {
     display: inline;
     list-style-type: none;
@@ -20,6 +16,17 @@ a {
 
 nav {
     background-color: #636363;
+}
+
+.navcontainer {
+    width:100%;
+    border:solid;
+    border-top: none;
+    border-bottom: solid;
+    border-left: none;
+    border-right: none;
+    margin: 0px;
+    padding: 0px;
 }
 
 section {
