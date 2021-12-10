@@ -34,7 +34,7 @@ nav {
 
 section {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 article {
@@ -56,6 +56,10 @@ h2 {
 
 p {
     font-size: 125%;
+}
+
+.exp {
+    border-radius: 15px;
 }
 
 .bio {
