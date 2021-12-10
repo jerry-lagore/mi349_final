@@ -46,6 +46,10 @@ article {
     margin: 20px;
 }
 
+h1 {
+    font-size: large;
+}
+
 .bio {
     background-color: #aaa;
     border-radius: 15px;
