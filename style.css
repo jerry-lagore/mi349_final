@@ -96,8 +96,10 @@ article {
     .bio {
         width: 400px;
         height: 600px;
-    }
+    } 
+}
 
+@media (max-width: 400px) {
     .exp {
         height: 400px; 
     }
