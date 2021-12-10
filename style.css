@@ -97,4 +97,8 @@ article {
         width: 400px;
         height: 600px;
     }
+
+    .exp {
+        height: 400px; 
+    }
 }
