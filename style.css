@@ -79,7 +79,6 @@ article {
     text-align: left;
     margin-left: 40px;
     margin-right: 40px;
-    margin-bottom: 40px;
 }
 
 .exp {
@@ -90,4 +89,10 @@ article {
 
 .exp p {
     font-size: 125%;
+}
+
+@media (max-width: 600px ) {
+    .bio {
+        background-color: darkgreen;
+    }
 }
