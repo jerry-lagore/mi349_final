@@ -14,14 +14,13 @@ a {
 
 nav {
     background-color: #636363;
-    text-align: center;
 }
 
 .navcontainer {
     width:100%;
     border:solid;
     border-top: none;
-    border-bottom: solid;
+    border-bottom: none;
     border-left: none;
     border-right: none;
     margin: 0px;
