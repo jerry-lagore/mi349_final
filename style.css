@@ -12,6 +12,7 @@ li {
 
 a {
     text-decoration: none;
+    text-align: center;
 }
 
 nav {
@@ -20,13 +21,13 @@ nav {
 
 .navcontainer {
     width:100%;
-    border:solid;
+    /* border:solid;
     border-top: none;
-    border-bottom: solid;
+    border-bottom: none;
     border-left: none;
     border-right: none;
     margin: 0px;
-    padding: 0px;
+    padding: 0px; */
 }
 
 section {
