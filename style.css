@@ -50,6 +50,10 @@ h1 {
     font-size: 200%;
 }
 
+p {
+    font-size: large;
+}
+
 .bio {
     background-color: #aaa;
     border-radius: 15px;
